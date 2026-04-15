@@ -1,0 +1,215 @@
+timestamp,water_level_l,outflow_lps,pressure_bar,pump_running,energy_kwh_total,decision_reason,tariff_rate,leak_flag
+1776213430.1668503,3093.0,0.08,1.85,True,0.001,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213431.1476653,3209.0,0.05,1.92,True,0.001,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213432.1483703,2950.8,0.07,1.77,True,0.002,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213433.1492379,2694.5,0.05,1.62,True,0.002,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213434.1498883,2439.0,0.05,1.46,True,0.003,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213435.1502907,2280.0,0.08,1.37,True,0.004,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213436.150646,2452.6,0.08,1.47,True,0.004,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213437.1509473,2426.2,0.15,1.45,True,0.005,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213438.1512022,2367.9,0.05,1.42,True,0.006,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213439.1515787,2366.6,0.05,1.42,True,0.006,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213440.1521826,2223.4,0.05,1.33,True,0.007,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213441.152363,2293.4,0.05,1.37,True,0.007,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213442.1528287,2131.7,0.05,1.28,True,0.008,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213443.1530015,2212.5,0.05,1.33,True,0.009,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213444.1538048,2195.2,0.05,1.32,True,0.009,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213445.1547022,2195.2,0.05,1.32,True,0.01,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213446.1553082,2237.5,0.05,1.34,True,0.01,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213447.155499,2178.2,0.06,1.31,True,0.011,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213448.1561332,2341.0,0.09,1.4,True,0.012,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213449.156537,2577.7,0.05,1.55,True,0.012,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213450.1572254,2557.4,0.05,1.53,True,0.013,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213451.157679,2565.4,0.05,1.54,True,0.013,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213452.1578414,2623.8,0.08,1.57,True,0.014,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213453.1583662,2603.6,0.05,1.56,True,0.015,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213454.1588166,2533.5,0.05,1.52,True,0.015,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213455.1594002,2464.4,0.05,1.48,True,0.016,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213456.1600778,2408.7,0.08,1.44,True,0.016,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213457.1605194,2086.0,0.05,1.25,True,0.017,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213458.1610124,1914.2,0.05,1.15,True,0.018,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213459.1612308,1837.5,0.05,1.1,True,0.018,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213460.1806905,2001.2,0.07,1.2,True,0.019,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213461.161725,1846.7,0.07,1.11,True,0.02,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213462.162293,1741.3,0.06,1.04,True,0.02,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213463.1628096,1939.8,0.05,1.16,True,0.021,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213464.163482,1709.5,0.07,1.02,True,0.021,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213465.163661,1687.0,0.05,1.01,True,0.022,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213466.1641715,1849.6,0.06,1.11,True,0.023,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213467.1647503,1642.6,0.05,0.98,True,0.023,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213468.165895,1653.6,0.06,0.99,True,0.024,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213469.1662676,1752.4,0.06,1.05,True,0.024,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213470.1668115,1791.3,0.05,1.07,True,0.025,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213494.0044336,3196.2,0.05,1.92,True,0.001,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213494.9850104,3376.4,0.05,2.02,True,0.001,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213495.98571,3436.2,0.13,2.06,True,0.002,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213496.9861302,2953.1,0.06,1.77,True,0.002,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213497.9864206,2970.7,0.06,1.78,True,0.003,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213498.987411,3139.2,0.05,1.88,True,0.004,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213499.987968,2978.3,0.05,1.79,True,0.004,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213500.9886124,2881.8,0.11,1.73,True,0.005,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213501.9892466,2900.9,0.05,1.74,True,0.006,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213502.9895272,2857.4,0.05,1.71,True,0.006,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213503.9901764,2857.0,0.06,1.71,True,0.007,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213504.9909055,3278.5,0.12,1.97,True,0.007,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213505.9914746,3116.6,0.05,1.87,True,0.008,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213506.9917638,3064.7,0.11,1.84,True,0.009,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213507.9925935,3097.8,0.09,1.86,True,0.009,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213508.9930704,3029.3,0.07,1.82,True,0.01,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213509.9940581,3098.1,0.05,1.86,True,0.01,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213510.9940004,3081.3,0.05,1.85,True,0.011,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213511.9943814,3290.5,0.06,1.97,True,0.012,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213512.9948952,3406.8,0.1,2.04,True,0.012,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213513.9956825,3169.8,0.05,1.9,True,0.013,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213514.9962313,3149.4,0.06,1.89,True,0.013,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213515.9965804,3122.2,0.05,1.87,True,0.014,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213516.997385,3283.7,0.05,1.97,True,0.015,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213543.813519,3089.6,0.08,1.85,True,0.001,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213544.7936094,3207.3,0.05,1.92,True,0.001,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213545.7938745,3328.1,0.11,2.0,True,0.002,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213546.7941656,3447.8,0.05,2.07,True,0.002,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213547.7949858,3375.3,0.05,2.02,True,0.003,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213548.795437,3400.0,0.05,2.04,True,0.004,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213549.79613,3547.9,0.05,2.13,True,0.004,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213550.7964458,3619.1,0.07,2.17,True,0.005,Tariff not favourable / level sufficient,280.0,False
+1776213551.7971878,3498.5,0.05,2.1,True,0.006,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213552.7979403,3248.0,0.05,1.95,True,0.006,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213553.798164,3335.1,0.05,2.0,True,0.007,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213554.7987885,3085.7,0.05,1.85,True,0.007,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213555.799594,2805.4,0.05,1.68,True,0.008,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213556.8002484,2831.7,0.11,1.7,True,0.009,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213557.8007963,2964.5,0.1,1.78,True,0.009,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213558.8012204,2892.4,0.05,1.73,True,0.01,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213559.8017426,2866.0,0.06,1.72,True,0.01,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213560.8020022,2861.6,0.05,1.72,True,0.011,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213561.8023646,2569.0,0.05,1.54,True,0.012,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213562.8025832,2667.3,0.05,1.6,True,0.012,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213563.8032694,2851.4,0.05,1.71,True,0.013,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213564.80373,2809.7,0.05,1.68,True,0.013,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213565.804164,3119.9,0.05,1.87,True,0.014,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213566.8048756,3272.9,0.09,1.96,True,0.015,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213567.805391,3216.8,0.1,1.93,True,0.015,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213568.805845,3478.1,0.05,2.09,True,0.016,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213569.8062484,3663.3,0.06,2.2,True,0.016,Tariff not favourable / level sufficient,280.0,False
+1776213570.8069532,3808.6,0.05,2.28,True,0.017,Tariff not favourable / level sufficient,280.0,False
+1776213571.8072896,3924.6,0.05,2.35,True,0.018,Tariff not favourable / level sufficient,280.0,False
+1776213572.8075387,3955.9,0.05,2.37,True,0.018,Tariff not favourable / level sufficient,280.0,False
+1776213573.8082385,4375.6,0.05,2.62,True,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213574.808486,4048.6,0.05,2.43,False,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213575.809278,3953.0,0.06,2.37,False,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213576.8095984,3999.2,0.05,2.4,False,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213577.8102343,4058.1,0.05,2.43,False,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213578.8102684,4081.3,0.09,2.45,False,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213579.8106263,3747.8,0.05,2.25,False,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213580.8111196,3648.6,0.07,2.19,False,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213581.8113406,3565.3,0.05,2.14,False,0.019,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213582.811561,3590.8,0.09,2.15,False,0.019,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213583.8119109,3774.6,0.05,2.26,False,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213584.8123016,3854.2,0.07,2.31,False,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213585.8129723,3968.9,0.05,2.38,False,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213586.8135028,3997.5,0.05,2.4,False,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213587.813746,3839.5,0.05,2.3,False,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213588.8145378,3830.2,0.05,2.3,False,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213589.8146033,4064.2,0.05,2.44,False,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213590.8150926,4057.6,0.07,2.43,False,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213591.815557,3875.1,0.05,2.33,False,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213592.8158717,3923.2,0.07,2.35,False,0.019,Tariff not favourable / level sufficient,280.0,False
+1776213593.8164318,3388.5,0.05,2.03,True,0.02,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213594.8167856,3419.3,0.05,2.05,True,0.02,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213595.8169904,3386.0,0.05,2.03,True,0.021,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213596.8173258,3429.8,0.06,2.06,True,0.021,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213597.8176973,3438.3,0.09,2.06,True,0.022,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213598.8182414,3578.4,0.05,2.15,True,0.023,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213599.818752,3534.1,0.05,2.12,True,0.023,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213600.819302,3286.8,0.05,1.97,True,0.024,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213601.8201432,3359.8,0.05,2.01,True,0.024,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213602.8203282,3582.1,0.05,2.15,True,0.025,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213603.821159,3621.7,0.05,2.17,True,0.026,Tariff not favourable / level sufficient,280.0,False
+1776213604.8216417,3617.6,0.05,2.17,True,0.026,Tariff not favourable / level sufficient,280.0,False
+1776213605.8224268,3825.9,0.05,2.29,True,0.027,Tariff not favourable / level sufficient,280.0,False
+1776213606.822713,3785.0,0.05,2.27,True,0.027,Tariff not favourable / level sufficient,280.0,False
+1776213607.8232574,3752.0,0.05,2.25,True,0.028,Tariff not favourable / level sufficient,280.0,False
+1776213608.823699,3776.1,0.05,2.26,True,0.029,Tariff not favourable / level sufficient,280.0,False
+1776213609.8241422,3806.2,0.1,2.28,True,0.029,Tariff not favourable / level sufficient,280.0,False
+1776213610.824826,3722.6,0.09,2.23,True,0.03,Tariff not favourable / level sufficient,280.0,False
+1776213611.8252113,3796.0,0.12,2.28,True,0.031,Tariff not favourable / level sufficient,280.0,False
+1776213612.8259368,3706.3,0.08,2.22,True,0.031,Tariff not favourable / level sufficient,280.0,False
+1776213613.8265965,3368.6,0.05,2.02,True,0.032,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213614.8271677,3495.9,0.09,2.1,True,0.032,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213615.8276277,3561.9,0.05,2.14,True,0.033,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213616.8280685,3766.0,0.05,2.26,True,0.034,Tariff not favourable / level sufficient,280.0,False
+1776213617.8284237,3468.9,0.05,2.08,True,0.034,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213618.8288336,3564.1,0.05,2.14,True,0.035,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213619.8292098,3478.7,0.09,2.09,True,0.035,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213620.8299117,3386.5,0.05,2.03,True,0.036,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213621.8307705,3531.3,0.06,2.12,True,0.037,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213622.8312008,3616.1,0.09,2.17,True,0.037,Tariff not favourable / level sufficient,280.0,False
+1776213623.8314478,3679.0,0.05,2.21,False,0.037,Tariff not favourable / level sufficient,280.0,False
+1776213624.8317754,3743.7,0.11,2.25,False,0.037,Tariff not favourable / level sufficient,280.0,False
+1776213625.8322792,3806.4,0.05,2.28,False,0.037,Tariff not favourable / level sufficient,280.0,False
+1776213626.8326204,3760.9,0.05,2.26,False,0.037,Tariff not favourable / level sufficient,280.0,False
+1776213627.8332841,3590.3,0.05,2.15,False,0.037,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213628.833391,3476.2,0.07,2.09,False,0.037,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213629.8339245,3614.7,0.07,2.17,False,0.037,Tariff not favourable / level sufficient,280.0,False
+1776213630.8346987,3671.0,0.05,2.2,False,0.037,Tariff not favourable / level sufficient,280.0,False
+1776213631.8348317,3490.5,0.05,2.09,False,0.037,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213632.8352575,3528.5,0.05,2.12,False,0.037,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213633.83569,3442.3,0.05,2.06,True,0.038,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213634.8363976,3276.3,0.1,1.96,True,0.038,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213635.836976,3394.7,0.1,2.04,True,0.039,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213636.837706,3464.9,0.05,2.08,True,0.04,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213637.838027,3408.9,0.08,2.04,True,0.04,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213638.8388672,3311.1,0.05,1.99,True,0.041,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213639.8392243,3162.4,0.05,1.9,True,0.042,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213640.8398135,3420.2,0.12,2.05,True,0.042,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213641.8402965,3465.6,0.06,2.08,True,0.043,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213642.8408651,3416.2,0.05,2.05,True,0.043,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213643.841363,3447.5,0.06,2.07,True,0.044,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213644.8421447,3384.8,0.06,2.03,True,0.045,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213645.8425343,3666.4,0.11,2.2,True,0.045,Tariff not favourable / level sufficient,280.0,False
+1776213646.8428054,3968.5,0.08,2.38,True,0.046,Tariff not favourable / level sufficient,280.0,False
+1776213647.8437114,3890.2,0.05,2.33,True,0.046,Tariff not favourable / level sufficient,280.0,False
+1776213648.8442993,3945.5,0.05,2.37,True,0.047,Tariff not favourable / level sufficient,280.0,False
+1776213649.8443823,3739.6,0.05,2.24,True,0.048,Tariff not favourable / level sufficient,280.0,False
+1776213650.8446608,3407.4,0.05,2.04,True,0.048,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213651.8455245,3523.6,0.06,2.11,True,0.049,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213652.8453598,3564.4,0.05,2.14,True,0.049,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213653.845786,3347.4,0.1,2.01,True,0.05,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213654.84625,3117.2,0.1,1.87,True,0.051,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213655.8467166,3078.7,0.09,1.85,True,0.051,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213656.8471704,3274.6,0.09,1.96,True,0.052,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213657.8479173,3201.9,0.05,1.92,True,0.053,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213658.848268,3301.2,0.05,1.98,True,0.053,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213659.8488202,3510.8,0.08,2.11,True,0.054,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213660.849245,3471.9,0.05,2.08,True,0.054,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213661.8498752,3464.9,0.05,2.08,True,0.055,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213662.8509004,3487.7,0.1,2.09,True,0.056,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213663.8513162,3475.3,0.05,2.08,True,0.056,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213664.8521206,3386.3,0.06,2.03,True,0.057,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213665.8526795,3623.9,0.05,2.17,False,0.057,Tariff not favourable / level sufficient,280.0,False
+1776213666.8530955,3707.8,0.05,2.22,False,0.057,Tariff not favourable / level sufficient,280.0,False
+1776213667.8536756,3755.9,0.1,2.25,False,0.057,Tariff not favourable / level sufficient,280.0,False
+1776213668.8540218,3786.6,0.11,2.27,False,0.057,Tariff not favourable / level sufficient,280.0,False
+1776213669.8544524,3533.0,0.05,2.12,False,0.057,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213670.854922,3688.8,0.05,2.21,False,0.057,Tariff not favourable / level sufficient,280.0,False
+1776213671.8552485,3530.0,0.06,2.12,False,0.057,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213672.8558428,3581.8,0.11,2.15,False,0.057,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213673.8562818,3603.0,0.05,2.16,False,0.057,Tariff not favourable / level sufficient,280.0,False
+1776213674.8564067,3402.4,0.07,2.04,False,0.057,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213675.8570743,3413.1,0.13,2.05,True,0.057,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213676.857364,3558.1,0.05,2.13,True,0.058,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213677.858012,3412.0,0.09,2.05,True,0.059,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213678.8581991,3558.1,0.08,2.13,True,0.059,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213679.8589826,3449.8,0.05,2.07,True,0.06,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213680.8592622,3361.2,0.16,2.02,True,0.06,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213681.8595202,3536.3,0.05,2.12,True,0.061,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213682.8596272,3399.9,0.07,2.04,True,0.062,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213683.860468,3293.1,0.05,1.97,True,0.062,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213684.861172,3198.4,0.1,1.92,True,0.063,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213685.8615108,3071.5,0.05,1.84,True,0.064,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213686.8619006,2965.6,0.05,1.78,True,0.064,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213687.8627095,2892.6,0.06,1.73,True,0.065,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213688.8633192,2976.5,0.09,1.78,True,0.065,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213689.8636808,3067.6,0.05,1.84,True,0.066,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213690.863921,2845.3,0.08,1.71,True,0.067,Off-peak tariff (280.0 TZS/kWh),280.0,False
+1776213691.8645103,2907.1,0.08,1.74,True,0.067,Off-peak tariff (280.0 TZS/kWh),280.0,False
